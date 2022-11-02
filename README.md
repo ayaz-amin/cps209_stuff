@@ -1,2 +1,2 @@
-# cps209_stuff
-CPS209 assignments and labs
+# cps213_stuff
+CPS213 assignments and labs
